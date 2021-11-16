@@ -10,7 +10,7 @@ $(function(){
         dots: true,
         arrows: false,
         slidesToShow: 3,
-        slidesToScroll: 4
+        slidesToScroll: 3
     });
 
     var mixer = mixitup('.products__inner-box');
